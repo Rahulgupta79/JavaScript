@@ -35,3 +35,10 @@ let g=-f
 // console.log(1+"2")
 // console.log("1"+2+2)
 // console.log(1+2+"2")
+
+// console.log(12>0)
+// console.log("2">0)
+// console.log("2"==2)
+// console.log("2">=0)
+// console.log("2"===2)
+
